@@ -1,5 +1,11 @@
-import UIKit
+//
+//  TypeCheckAndCasting.swift
+//  TypeCheckAndCasting
+//
+//  Created by E5000866 on 30/05/24.
+//
 
+import Foundation
 
 // Define the base class Vehicle
 class Vehicle {
