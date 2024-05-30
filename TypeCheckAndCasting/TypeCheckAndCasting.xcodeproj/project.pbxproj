@@ -15,6 +15,7 @@
 		A733FBA32C0840FE00FB6B29 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A733FBA22C0840FE00FB6B29 /* Base */; };
 		A733FBC72C08417B00FB6B29 /* TypeCheckAndCasting.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733FBC62C08417B00FB6B29 /* TypeCheckAndCasting.swift */; };
 		A733FBC92C085BB800FB6B29 /* AnyAndAnyObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733FBC82C085BB800FB6B29 /* AnyAndAnyObject.swift */; };
+		A733FBCB2C08611200FB6B29 /* Delegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733FBCA2C08611200FB6B29 /* Delegates.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A733FBB32C0840FF00FB6B29 /* TypeCheckAndCastingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TypeCheckAndCastingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A733FBC62C08417B00FB6B29 /* TypeCheckAndCasting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeCheckAndCasting.swift; sourceTree = "<group>"; };
 		A733FBC82C085BB800FB6B29 /* AnyAndAnyObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyAndAnyObject.swift; sourceTree = "<group>"; };
+		A733FBCA2C08611200FB6B29 /* Delegates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delegates.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +79,6 @@
 		A733FB8A2C0840F700FB6B29 = {
 			isa = PBXGroup;
 			children = (
-				A733FBC82C085BB800FB6B29 /* AnyAndAnyObject.swift */,
 				A733FB952C0840F700FB6B29 /* TypeCheckAndCasting */,
 				A733FB942C0840F700FB6B29 /* Products */,
 			);
@@ -100,6 +101,8 @@
 				A733FB982C0840F700FB6B29 /* SceneDelegate.swift */,
 				A733FB9A2C0840F700FB6B29 /* ViewController.swift */,
 				A733FBC62C08417B00FB6B29 /* TypeCheckAndCasting.swift */,
+				A733FBC82C085BB800FB6B29 /* AnyAndAnyObject.swift */,
+				A733FBCA2C08611200FB6B29 /* Delegates.swift */,
 				A733FB9C2C0840F700FB6B29 /* Main.storyboard */,
 				A733FB9F2C0840FE00FB6B29 /* Assets.xcassets */,
 				A733FBA12C0840FE00FB6B29 /* LaunchScreen.storyboard */,
@@ -243,6 +246,7 @@
 				A733FBC92C085BB800FB6B29 /* AnyAndAnyObject.swift in Sources */,
 				A733FB9B2C0840F700FB6B29 /* ViewController.swift in Sources */,
 				A733FB972C0840F700FB6B29 /* AppDelegate.swift in Sources */,
+				A733FBCB2C08611200FB6B29 /* Delegates.swift in Sources */,
 				A733FB992C0840F700FB6B29 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         
 //        describeVehicles(vehicles: vehicles)
         
-        describeElements(elements: arr)
+//        describeElements(elements: arr)
+        main()
     }
     
    
