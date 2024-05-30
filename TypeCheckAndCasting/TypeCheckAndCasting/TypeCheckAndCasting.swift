@@ -1,11 +1,4 @@
-//
-//  TypeCheckAndCasting.swift
-//  TypeCheckAndCasting
-//
-//  Created by E5000866 on 30/05/24.
-//
 
-import Foundation
 
 // Define the base class Vehicle
 class Vehicle {
@@ -44,5 +37,8 @@ func describeVehicles(vehicles: [Vehicle]) {
     }
 }
 
-// Call the function to describe vehicles
-describeVehicles(vehicles: vehicles)
+
+
+
+
+
